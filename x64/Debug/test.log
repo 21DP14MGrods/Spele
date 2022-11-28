@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\pudel\source\repos\test\test\Main.cpp(19,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pudel\source\repos\test\test\Main.cpp(19,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pudel\source\repos\test\test\Main.cpp(21,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  test.vcxproj -> C:\Users\pudel\source\repos\test\x64\Debug\test.exe
